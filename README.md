@@ -1,7 +1,3 @@
-Sure, here's a README file along with a sample `.env` file for your server code:
-
-**README.md:**
-
 # ShoeMonkey_2.0 Server
 
 This is a backend server for an e-commerce application built using Node.js, Express.js, and MongoDB. It provides endpoints for user authentication, product management, cart management, order placement, and order retrieval.
